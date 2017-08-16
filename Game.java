@@ -26,5 +26,12 @@ public class Game {
 
     System.out.println(yn + "\n");
 
+    if(yn.equals("y") || yn.equals("Y")) {
+
+    }
+
+    if(yn.equals("n") || yn.equals("N")) {
+      
+    }
   }
 }
