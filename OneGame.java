@@ -7,7 +7,6 @@
 public class OneGame {
   
   //Method Variables
-  float 
 
   //Constructor
   public OneGame() {
